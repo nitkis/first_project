@@ -1,3 +1,4 @@
 hi
 file edited on github
 further edited on github
+Hi checking git merge
